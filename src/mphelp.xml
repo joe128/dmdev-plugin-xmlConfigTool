@@ -1,0 +1,17 @@
+<mphelp skin="XMLConfigTool" caption="General XML-Config-Plugin">
+	<page title="General XML-Config-Support" ID="INTRO">
+		<title language="de" value="Generelles XML-Config-Plugin"/>
+		<text value="This plugin is intended to serve other plugins to assist with managing and persistence of settings."/>
+		<text language="de" value="Dieses Plugin soll anderen Plugins zur Unterstützung beim Verwalten und Persistieren von Einstellungen dienen."/>
+	</page>
+	<page title="Import and Export" ID="IM_EXPORT">
+		<title language="de" value="Importieren und Exportieren"/>
+		<text value="The entries can be saved and restored via the menu in the overview window. When importing, you may be asked if you want to keep existing entries. If you choose &quot;No&quot;, this is equivalent to a restore of a backup. By choosing &quot;Yes&quot; you can import additional entries for example from friends. If you do not want to overwrite existing entries you will be asked whether some existing entries schould be overwritten or not. "/>
+		<text language="de" value="Über das Menü im Überblicks-Fenster können Einträge gespeichert und wiederhergestellt werden. Beim Importieren werden Sie gegebenenfalls gefragt ob sie bestehende Einträge behalten wollen. Falls Sie &quot;Nein&quot; also überschreiben wählen, ist dies gleichbedeutend mit einem Zurückspielen einer Sicherung. Durch wählen von &quot;Ja&quot; können sie z.B. Einträge von Freunden zusätzlich importieren. Falls Sie vorhandene Einträge nicht überschreiben wollen, werden Sie noch gefragt ob einzelne bereits vorhandene Einträge überschrieben werden sollen oder nicht."/>
+	</page>
+	<page title="Technical Notes" ID="TECHNICAL_NOTES">
+		<title language="de" value="Technische Hinweise"/>
+		<text value="To use the plugin, the Python class &quot;XMLConfigSupport&quot; has to be instantiated. It is recommend to expand the class in order to customize the behavior of the custom plugin to the specific needs. The individual methods are documented in the source.\nEntries are represented by a separate class that must be provided.\nTo use the &quot;Screens&quot;, you may extend the classes from &quot;ConfigScreens.py&quot;. To perform checks on the entries within the editor, you may implement the method &quot;checkAll&quot; and return the error-messages as text."/>
+		<text language="de" value="Um das Plugin zu benutzen, muss die Python-Klasse &quot;XMLConfigSupport&quot; instanziiert werden. Es emphielt sich die Klasse zu erweitern, um das Verhalten an die speziellen Bedürnfisse des eigenen Plugins anpassen zu können. Die einzelnen Methoden sind im Source dokumentiert.\nEinträge werden von einer eigenen Klasse repräsentiert, die bereit gestellt werden muss.\nUm die &quot;Screens&quot; zu nutzen, können auch die Klassen aus &quot;ConfigScreens.py&quot; erweitert werden. Sollen vor dem Speichern über den Editor eigene Checks durchgeführt werden, so können diese in der Eintrag-Klasse in der Methode &quot;checkAll&quot; implementiert werden, und Fehlermeldungen als Text zurückgegeben werden."/>
+	</page>
+</mphelp>

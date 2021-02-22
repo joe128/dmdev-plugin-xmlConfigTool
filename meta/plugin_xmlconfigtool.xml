@@ -1,0 +1,17 @@
+<default>
+	  <prerequisites>
+                    <tag type="System" />
+	  </prerequisites>
+          <info>
+                    <author>joe128</author>
+                    <name>XMLConfigTool</name>
+                    <packagename>enigma2-plugin-systemplugins-xmlconfigtool</packagename>
+                    <shortdescription>General XML-Config-Support</shortdescription>
+                    <description>General Support for storing objects in XML</description>
+                    <screenshot/>
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-systemplugins-xmlconfigtool" />
+	  </files>
+</default>

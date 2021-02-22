@@ -1,0 +1,211 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2014-08-22 22:09+CEST\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: ConfigScreens.py:130
+msgid "Delete"
+msgstr ""
+
+#: ConfigScreens.py:131
+msgid "Save"
+msgstr ""
+
+#: ConfigScreens.py:132
+msgid "Add"
+msgstr ""
+
+#: ConfigScreens.py:151
+msgid "Edit %s"
+msgstr ""
+
+#: ConfigScreens.py:152 ConfigScreens.py:619 ConfigScreens.py:625
+msgid "Close and forget changes"
+msgstr ""
+
+#: ConfigScreens.py:158
+msgid "Open Context Menu"
+msgstr ""
+
+#: ConfigScreens.py:164 ConfigScreens.py:176 ConfigScreens.py:630
+msgid "Move page up"
+msgstr ""
+
+#: ConfigScreens.py:165 ConfigScreens.py:177 ConfigScreens.py:631
+msgid "Move page down"
+msgstr ""
+
+#: ConfigScreens.py:178
+msgid "Move up"
+msgstr ""
+
+#: ConfigScreens.py:179
+msgid "Move down"
+msgstr ""
+
+#: ConfigScreens.py:185
+msgid "Remove %s"
+msgstr ""
+
+#: ConfigScreens.py:186 ConfigScreens.py:620
+msgid "Close and save changes"
+msgstr ""
+
+#: ConfigScreens.py:187
+msgid "Add new Entry"
+msgstr ""
+
+#: ConfigScreens.py:196
+msgid "Export %s-Configuration"
+msgstr ""
+
+#: ConfigScreens.py:197
+msgid "Import %s-Configuration"
+msgstr ""
+
+#: ConfigScreens.py:199
+msgid "Show Help"
+msgstr ""
+
+#: ConfigScreens.py:281
+msgid "Do you really want to delete \"%s\"?"
+msgstr ""
+
+#: ConfigScreens.py:341
+msgid "There are unsaved changes, do you want to save %s before exporting?"
+msgstr ""
+
+#: ConfigScreens.py:353
+msgid "Select %s for export ..."
+msgstr ""
+
+#: ConfigScreens.py:360
+msgid "Select Export-Location"
+msgstr ""
+
+#: ConfigScreens.py:375
+msgid "%d %s saved to \"%s\""
+msgstr ""
+
+#: ConfigScreens.py:378 ConfigScreens.py:381
+msgid "Export Configuration"
+msgstr ""
+
+#: ConfigScreens.py:380
+msgid "The Configuration couldn't be written!"
+msgstr ""
+
+#: ConfigScreens.py:405
+msgid "Select %s for import ..."
+msgstr ""
+
+#: ConfigScreens.py:409
+msgid "There are no (new) entries in the configuration!"
+msgstr ""
+
+#: ConfigScreens.py:410 ConfigScreens.py:413 ConfigScreens.py:477
+msgid "Configuration-Import"
+msgstr ""
+
+#: ConfigScreens.py:412
+msgid "The Configuration couldn't be loaded!"
+msgstr ""
+
+#: ConfigScreens.py:423
+msgid "Do you want to keep the existing entries?"
+msgstr ""
+
+#: ConfigScreens.py:424
+msgid "Add or Overwrite Configuration?"
+msgstr ""
+
+#: ConfigScreens.py:441
+msgid ""
+"Do you want to overwrite the entries with similar name?\n"
+"If you choose no, the matching entry of the configuration-file will not be added."
+msgstr ""
+
+#: ConfigScreens.py:442
+msgid "Overwrite Entries?"
+msgstr ""
+
+#: ConfigScreens.py:474
+msgid "%d %s loaded from \"%s\"!"
+msgstr ""
+
+#: ConfigScreens.py:493
+msgid "Really close without saving %s?"
+msgstr ""
+
+#: ConfigScreens.py:596 ConfigScreens.py:908
+msgid "Cancel"
+msgstr ""
+
+#: ConfigScreens.py:597 ConfigScreens.py:909
+msgid "OK"
+msgstr ""
+
+#: ConfigScreens.py:715
+msgid "Select Location"
+msgstr ""
+
+#: ConfigScreens.py:816
+msgid "Really close without saving \"%s\"?"
+msgstr ""
+
+#: ConfigScreens.py:817
+msgid "Close without saving?"
+msgstr ""
+
+#: ConfigScreens.py:849
+msgid "%s \"%s\" already exists. Do you want to overwrite?"
+msgstr ""
+
+#: ConfigScreens.py:998
+msgid "Only Enabled"
+msgstr ""
+
+#: ConfigScreens.py:1000
+msgid "Show Disabled"
+msgstr ""
+
+#: ConfigScreens.py:1020
+msgid "Clear All"
+msgstr ""
+
+#: ConfigScreens.py:1022
+msgid "Select All"
+msgstr ""
+
+#: XMLConfigTools.py:60
+msgid "Close"
+msgstr ""
+
+#: XMLConfigTools.py:153
+msgid "select a valid file"
+msgstr ""
+
+#: XMLConfigTools.py:155 XMLConfigTools.py:157
+msgid "select: %s"
+msgstr ""
+
+#: plugin.py:29
+msgid "XML-Config-Tool"
+msgstr ""
+
+#: plugin.py:30
+msgid "General XML-Config-Support"
+msgstr ""
+

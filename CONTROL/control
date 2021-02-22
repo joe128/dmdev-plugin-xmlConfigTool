@@ -1,0 +1,2 @@
+Description: General Support for storing objects in XML
+Depends: enigma2, enigma2-plugin-systemplugins-mphelp, enigma2-plugin-systemplugins-generallogger
